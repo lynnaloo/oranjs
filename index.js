@@ -1,3 +1,3 @@
 
 // the cat says
-console.log('Feed me now');
+console.log('Feed the kitties now!');
