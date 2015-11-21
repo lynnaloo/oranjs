@@ -1,0 +1,24 @@
+{
+  "name": "oran",
+  "version": "0.0.1",
+  "description": "Oran.js JavaScript by Orange Cats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lynnaloo/oran.git"
+  },
+  "keywords": [
+    "orange",
+    "oran.js",
+    "cats"
+  ],
+  "author": "Linda Nichols",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lynnaloo/oran/issues"
+  },
+  "homepage": "https://github.com/lynnaloo/oran"
+}
