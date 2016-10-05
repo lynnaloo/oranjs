@@ -1,6 +1,6 @@
 # Oran.js
 
-## :tangerine: JavaScript by Orange Cats
+## :tangerine: JavaScript by Orange ~~Cats~~ Pets
 
 #### Brought to you by
 
