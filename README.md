@@ -26,6 +26,6 @@
 ### Install dependencies
     npm install
 ### Start the server
-    node start
+    npm start
 ### Enjoy all the cuteness <3
 
