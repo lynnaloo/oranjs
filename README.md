@@ -22,3 +22,10 @@
 ### Smole
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400>
 
+## How to run?
+### Install dependencies
+    npm install
+### Start the server
+    npm start
+### Enjoy all the cuteness <3
+
