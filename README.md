@@ -26,6 +26,6 @@
 ### Install dependencies
     npm install
 ### Start the server
-    node index.js
+    node start
 ### Enjoy all the cuteness <3
 
