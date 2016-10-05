@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node app/index.js",
+    "build": "gulp build"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,8 @@
   },
   "homepage": "https://github.com/lynnaloo/oran",
   "dependencies": {
-    "cli-color": "^1.1.0"
+    "cli-color": "^1.1.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0"
   }
 }
