@@ -23,9 +23,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400>
 
 ### Running Oranjs
+You must have node.js installed along with npm.
 To run Oranjs on your machine, open up your terminal, go to the directory you'd like to install Oranjs and cover the following steps: 
 `$ git clone https://github.com/lynnaloo/oranjs.git && cd oranjs`
 `$ npm i`
 `$ node index.js`
-
-Voila!
