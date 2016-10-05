@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/lynnaloo/oran/issues"
   },
-  "homepage": "https://github.com/lynnaloo/oran"
+  "homepage": "https://github.com/lynnaloo/oran",
+  "dependencies": {
+    "cli-color": "^1.1.0"
+  }
 }
