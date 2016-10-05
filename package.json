@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+<<<<<<< HEAD
     "start": "node ./bin/www"
   },
   "dependencies": {
@@ -13,5 +14,30 @@
     "express": "~4.13.4",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/index.js",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lynnaloo/oran.git"
+  },
+  "keywords": [
+    "orange",
+    "oran.js",
+    "cats"
+  ],
+  "author": "Linda Nichols",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lynnaloo/oran/issues"
+  },
+  "homepage": "https://github.com/lynnaloo/oran",
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0"
+>>>>>>> bde8b6c1097b3956f4b3c50627f51c8a401c51ec
   }
 }

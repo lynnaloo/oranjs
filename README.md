@@ -1,5 +1,11 @@
 # Oran.js
 
+### How to Run the App:
+* Install Node.js app
+* Run `npm i` to install dependencies
+* Run `node index.js`
+
+
 ## :tangerine: JavaScript by Orange ~~Cats~~ Pets
 
 #### Brought to you by
@@ -22,3 +28,5 @@
 ### Smole
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400>
 
+## Real life Garfield    
+<img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400>
