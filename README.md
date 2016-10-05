@@ -22,3 +22,9 @@
 ### Smole
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400>
 
+### Jake
+<img src="http://acidcow.com/pics/20100623/orange_color_animals_08.jpg" width=400>
+
+### Wiley
+<img src="https://s-media-cache-ak0.pinimg.com/736x/e7/fe/b5/e7feb573a8daeb4ab922ee498de2c527.jpg" width=400"
+
