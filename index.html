@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>oran.js - Digital Pet Playground</title>
+  </head>
+
+  <body>
+    Cause... why not, right?
+    <div class="demo"></div>
+    <div class="itmo"></div>
+
+    <button id="feeder">Feed fluffers</button>
+    <button id="fishFood">Feed Bob</button>
+
+    <script type="text/javascript" src="index.js"></script>
+    <script type="text/javascript">
+      (function () {
+        var fluffers = new oranjs.Pet('fluffers', 'cat', 'he');
+        var bob = new oranjs.Pet('Bob', 'fish');
+
+        fluffers.init('.demo');
+        bob.init('.itmo');
+
+        document.getElementById('feeder').onclick = function () {
+          fluffers.feed();
+        };
+        document.getElementById('fishFood').onclick = function () {
+          bob.feed();
+        };
+      })();
+    </script>
+  </body>
+</html>
