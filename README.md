@@ -1,7 +1,9 @@
 # Oran.js
-/*How to run:Since this is a Node.js app, to run the application you will need to install Node.js, run npm i and then run the application node index.js.*/
 
-
+##How to Run the App:
+*Install Node.js app
+*Run 'npm i' to install dependencies
+*Run 'node index.js'
 
 
 ## :tangerine: JavaScript by Orange ~~Cats~~ Pets
