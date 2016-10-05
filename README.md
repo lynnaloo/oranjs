@@ -1,6 +1,29 @@
 # Oran.js
+----
 
-## :tangerine: JavaScript by Orange ~~Cats~~ Pets
+## Why Oran.js?:
+
+- We all :heart: pets
+- We all :heart: orange
+- Hence we all :heart: Orange Pets
+
+## Running Locally
+1. Clone the git repository
+2. Make sure you have [node](https://nodejs.org/) installed on your system by running `npm -v`, which should log the current version of *node* installed.
+3. Run `npm install`.
+4. Run `npm start` to run the app.
+5. Run `npm build` to build a production ready version of the app.
+6. Be punctual on when to feed your pet!!
+
+## Deploying via Docker:
+1. Clone the git repository
+2. Make sure you have [docker.io](https://www.docker.com/) installed on your system by running `docker -v`, which should log the current version of *docker* installed.
+2. Make sure you have [docker-compose](https://docs.docker.com/compose/) installed on your system by running `docker-compose -v`, which should log the current version of *docker-compose* installed.
+4. Run `docker-compose build` to build the container.
+5. Run `docker-compose up` to run the container.
+6. Do not let your pet's tummy growl!!
+
+### :tangerine: JavaScript by Orange ~~Cats~~ Pets
 
 #### Brought to you by
 
