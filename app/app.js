@@ -64,5 +64,6 @@ app.use(function(err, req, res, next) {
 });
 
 app.listen(8080);
-console.log('8080 is the magic port');
+console.log('Web application started at localhost:8080');
+
 module.exports = app;
