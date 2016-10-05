@@ -2,8 +2,8 @@
 
 ##How to Run the App:
 ###*Install Node.js app
-###*Run "npm i" to install dependencies
-###*Run "node index.js"
+###*Run `npm i` to install dependencies
+###*Run `node index.js`
 
 
 ## :tangerine: JavaScript by Orange ~~Cats~~ Pets
