@@ -4,7 +4,8 @@
   "description": "Oran.js JavaScript by Orange Cats",
   "main": "index.js",
   "scripts": {
-    "test": "npm run lint",
+    "pretest": "npm run lint",
+    "test": "mocha",
     "start": "node app/index.js",
     "build": "gulp build",
     "lint": "eslint . --ext .js"
@@ -13,7 +14,9 @@
     "type": "git",
     "url": "https://github.com/lynnaloo/oran.git"
   },
-  "pre-commit":["test"],
+  "pre-commit": [
+    "test"
+  ],
   "keywords": [
     "orange",
     "oran.js",
@@ -26,20 +29,21 @@
   },
   "homepage": "https://github.com/lynnaloo/oran",
   "dependencies": {
-    "cli-color": "^1.1.0",
-    "gulp": "^3.9.1",
-    "gulp-uglify": "^2.0.0",
     "body-parser": "~1.15.1",
+    "cli-color": "^1.1.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
     "ejs": "~2.4.1",
     "express": "~4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.0",
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
-  "eslint": "^3.7.1",
-  "eslint-config-eta": "0.0.7",
-  "pre-commit": "^1.1.3"
-}
+    "eslint": "^3.7.1",
+    "eslint-config-eta": "0.0.7",
+    "mocha": "^3.1.0",
+    "pre-commit": "^1.1.3"
+  }
 }
