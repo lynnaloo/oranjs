@@ -9,7 +9,7 @@
 
 ## Running Locally
 1. Clone the git repository
-2. Make sure you have [node](https://nodejs.org/) installed on your system by running `npm -v`, which should log the current version of *node* installed.
+2. Make sure you have [node](https://nodejs.org/) installed on your system, by running `node -v`, which should log the current version of *node* installed.
 3. Run `npm i`.
 4. Run `npm start` to run the app.
 5. Run `npm build` to build a production ready version of the app.
@@ -53,3 +53,9 @@
 
 ## Real life Garfield    
 <img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400>
+
+### Jake
+<img src="http://acidcow.com/pics/20100623/orange_color_animals_08.jpg" width=400>
+
+### Wiley
+<img src="https://s-media-cache-ak0.pinimg.com/originals/22/1f/85/221f852110940d4b19a03c44d47ba4fe.jpg" width=400>
