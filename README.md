@@ -34,3 +34,5 @@
 ### Charlie
 <img src="http://i.imgur.com/z3Ifbev.jpg" width=400>
 
+### Millie
+<img src="http://i.imgur.com/mnu0rrd.jpg" width=400>
