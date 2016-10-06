@@ -1,4 +1,4 @@
-# Oran.js
+# Oran.js [![Build Status](https://travis-ci.org/lynnaloo/oranjs.svg?branch=master)](https://travis-ci.org/lynnaloo/oranjs)
 ----
 
 ## Why Oran.js?:
