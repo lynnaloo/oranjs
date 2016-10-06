@@ -1,8 +1,0 @@
-{    
-    "node" : true,
-    "module" : true,
-    "esnext": true,
-    "eqeqeq": true,
-    "esversion": 6,
-    "mocha": true
-}
