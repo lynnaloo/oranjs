@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/lynnaloo/oran.git"
   },
-  "pre-commit":["test"],
+  "pre-commit":["lint"],
   "keywords": [
     "orange",
     "oran.js",
