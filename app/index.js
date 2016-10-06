@@ -1,7 +1,8 @@
+'use strict';
+
 const clc = require('cli-color');
 const orange = clc.xterm(202).bgXterm(236);
 const Reminder = require('./reminder');
-
 
 //cat's are always hungry
 const now = new Date();
