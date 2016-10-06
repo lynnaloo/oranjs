@@ -1,10 +1,12 @@
+'use strict';
+
 const gulp = require('gulp');
 const uglify = require('gulp-uglify');
 
 // Uglify Task
 // Minifies JavaScript files
 gulp.task('uglify', () => {
-  gulp.src('app/*.js')
+  return gulp.src('app/*.js')
     .pipe(uglify())
     .pipe(gulp.dest('dist'));
 });
