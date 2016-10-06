@@ -10,6 +10,23 @@ function checkWater() {
   console.log(orange('Check your pets water and food, make sure its all fine :)'));
 }
 
+var cat_ascii = `  	
+
+            |\\___/|
+           =) ^Y^ (=
+            \\  ^  /
+             )=*=(
+            /     \\
+            |     |          Happy Hacktoberfest!
+           /| | | |\\
+           \\| | |_|/\\
+           //_// ___/
+               \\_)
+`;
+
+//hacktoberfest special
+console.log(orange(cat_ascii));
+
 // the cat says
 console.log(orange('Feed the kitties at ' + now));
 
