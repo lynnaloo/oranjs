@@ -30,3 +30,6 @@
 
 ## Real life Garfield    
 <img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400>
+
+## Arthur    
+<img src="http://www.menageriepetshop.com/wp-content/uploads/2014/04/slider-main-05-bird1-850x425.jpg" width=400>
