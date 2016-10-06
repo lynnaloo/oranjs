@@ -27,11 +27,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/', function(req, res) {
     res.render('cat');
 });
-/*
-app.get('/cat', function(req, res){
-  res.render('cat');
-});
-*/
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   var err = new Error('Not Found');
