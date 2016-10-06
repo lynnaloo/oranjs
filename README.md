@@ -10,7 +10,7 @@
 ## Running Locally
 1. Clone the git repository
 2. Make sure you have [node](https://nodejs.org/) installed on your system by running `npm -v`, which should log the current version of *node* installed.
-3. Run `npm install`.
+3. Run `npm i`.
 4. Run `npm start` to run the app.
 5. Run `npm build` to build a production ready version of the app.
 6. Be punctual on when to feed your pet!!
