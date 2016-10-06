@@ -27,3 +27,6 @@ dist/
 
 # OSX
 .DS_Store
+
+/coverage/
+
