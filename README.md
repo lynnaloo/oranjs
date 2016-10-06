@@ -30,3 +30,7 @@
 
 ## Real life Garfield    
 <img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400>
+
+### Charlie
+<img src="http://i.imgur.com/z3Ifbev.jpg" width=400>
+
