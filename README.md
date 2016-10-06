@@ -53,3 +53,9 @@
 
 ## Real life Garfield    
 <img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400>
+
+### Jake
+<img src="http://acidcow.com/pics/20100623/orange_color_animals_08.jpg" width=400>
+
+### Wiley
+<img src="https://s-media-cache-ak0.pinimg.com/originals/22/1f/85/221f852110940d4b19a03c44d47ba4fe.jpg" width=400>
