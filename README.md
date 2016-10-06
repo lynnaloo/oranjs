@@ -23,7 +23,7 @@
 5. Run `docker-compose up` to run the container.
 6. Do not let your pet's tummy growl!!
 
-### :tangerine: JavaScript by Orange ~~Cats~~ Pets
+## :tangerine: JavaScript by Orange ~~Cats~~ Pets
 
 #### Brought to you by
 
