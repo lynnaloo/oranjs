@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run lint",
-    "start": "node app/index.js",
+    "start": "node app/app.js",
     "build": "gulp build",
     "lint": "eslint . --ext .js"
   },
@@ -41,5 +41,5 @@
   "eslint": "^3.7.1",
   "eslint-config-eta": "0.0.7",
   "pre-commit": "^1.1.3"
-}
+  }
 }
