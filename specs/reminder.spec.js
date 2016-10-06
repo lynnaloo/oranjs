@@ -1,5 +1,5 @@
-import chai from 'chai';
-import chaiString from 'chai-string';
+const chai = require('chai');
+const chaiString = require('chai-string');
 chai.should();
 chai.use(chaiString);
 

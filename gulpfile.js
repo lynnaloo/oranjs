@@ -24,7 +24,7 @@ gulp.task('code-coverage', () => {
 });
 
 gulp.task('test', ['code-coverage'], () => {
-    return gulp.src(['specs/**/*.js', ])
+    return gulp.src(['specs/**/*.js'])
     .pipe(mocha({reporter: 'nyan'}))
     .pipe(istanbul.writeReports({
         dir: './coverage',
