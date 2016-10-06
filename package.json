@@ -4,9 +4,10 @@
   "description": "Oran.js JavaScript by Orange Cats",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npm run lint",
     "start": "node app/index.js",
-    "build": "gulp build"
+    "build": "gulp build",
+    "lint": "eslint . --ext .js"
   },
   "repository": {
     "type": "git",
