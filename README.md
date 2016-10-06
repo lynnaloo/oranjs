@@ -24,8 +24,11 @@
 6. Do not let your pet's tummy growl!!
 
 ### How to Run the App:
-* Install Node.js app
+* [Install Node.js app](https://nodejs.org/en/download/)
+* Clone the app with `git clone https://github.com/lynnaloo/oranjs.git`
+* Change directory to oranjs with `cd oranjs`
 * Run `npm i` to install dependencies
+* Change directory to app with `cd app`
 * Run `node index.js`
 
 
