@@ -1,8 +1,10 @@
-var clc = require('cli-color');
-var orange = clc.xterm(202).bgXterm(236);
+'use strict';
+
+const clc = require('cli-color');
+const orange = clc.xterm(202).bgXterm(236);
 
 //cat's are always hungry
-var now = new Date();
+const now = new Date();
 
 function checkWater() {
   console.log(orange('Check your pets water and food, make sure its all fine :)'));
