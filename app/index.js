@@ -25,7 +25,7 @@ const catAscii = `
 `;
 
 //hacktoberfest special
-console.log(orange(cat_ascii));
+console.log(orange(catAscii));
 
 // the cat says
 console.log(orange('Feed the kitties at ' + now));
