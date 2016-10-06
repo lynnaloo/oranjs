@@ -13,7 +13,8 @@
 3. Run `npm i`.
 4. Run `npm start` to run the app.
 5. Run `npm build` to build a production ready version of the app.
-6. Be punctual on when to feed your pet!!
+6. Visit `http://localhost:8080`in a browser to see the web application.
+7. Be punctual on when to feed your pet!!
 
 ## Deploying via Docker:
 1. Clone the git repository
@@ -23,13 +24,7 @@
 5. Run `docker-compose up` to run the container.
 6. Do not let your pet's tummy growl!!
 
-### How to Run the App:
-* Install Node.js app
-* Run `npm i` to install dependencies
-* Run `node index.js`
-
-
-## :tangerine: JavaScript by Orange ~~Cats~~ Pets
+## :tangerine: JavaScript by Orange ~~Cats~~ ~~Pets~~ Animals
 
 #### Brought to you by
 

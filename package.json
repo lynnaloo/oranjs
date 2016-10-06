@@ -4,9 +4,8 @@
   "description": "Oran.js JavaScript by Orange Cats",
   "main": "index.js",
   "scripts": {
-	"pretest": "npm run lint",
+	 "pretest": "npm run lint",
     "test": "gulp test",
-    "start": "node app/index.js",
     "build": "gulp build",
     "lint": "eslint . --ext .js"
   },
@@ -14,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/lynnaloo/oran.git"
   },
-  "pre-commit":["test"],
+  "pre-commit":["lint"],
   "keywords": [
     "orange",
     "oran.js",
