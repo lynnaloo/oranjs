@@ -51,9 +51,5 @@
 ### Smole
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400>
 
-<<<<<<< HEAD
-
-=======
 ## Real life Garfield    
 <img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400>
->>>>>>> be2efe38be32542c9f39fb0be7abb096cc8cfe61
