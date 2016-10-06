@@ -28,6 +28,9 @@
 * Run `npm i` to install dependencies
 * Run `node index.js`
 
+### How to Run the tests:
+ * Run `npm test`
+
 
 ## :tangerine: JavaScript by Orange ~~Cats~~ Pets
 
