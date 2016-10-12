@@ -46,10 +46,10 @@
 ### Smole
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400>
 
-## Real life Garfield    
+### Real life Garfield    
 <img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400>
 
-## Arthur    
+### Arthur    
 <img src="http://www.menageriepetshop.com/wp-content/uploads/2014/04/slider-main-05-bird1-850x425.jpg" width=400>
 
 ### Jake
@@ -57,3 +57,6 @@
 
 ### Wiley
 <img src="https://s-media-cache-ak0.pinimg.com/originals/22/1f/85/221f852110940d4b19a03c44d47ba4fe.jpg" width=400>
+
+### Nemo
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Clown.fish.arp.750pix.jpg" width=400>
