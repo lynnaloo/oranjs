@@ -26,15 +26,15 @@
 
 ## :tangerine: JavaScript by Orange ~~Cats~~ ~~Pets~~ Animals
 
-#### Brought to you by
+## Brought to you by
 
-#### Max
+### Max
 <img src="https://cloud.githubusercontent.com/assets/1610195/11320293/5037c0a6-9062-11e5-86f1-655799b6af03.jpg" width=300 alt="Max, a very fluffy orange cat">
 
-#### Vader
+### Vader
 <img src="https://cloud.githubusercontent.com/assets/1610195/11320288/3d6d669c-9062-11e5-9810-e904c2f8747a.jpg" width=400 alt="Vader, an orange cat with a sweet face">
 
-#### Pangurban
+### Pangurban
 <img src="http://i.imgur.com/57v5rvP.jpg" width=400 alt="Pangurban, a cute orange cat laying down">
 
 ### Fluffy
@@ -46,10 +46,10 @@
 ### Smole
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400 alt="Smole, a charming orange fish">
 
-## Real life Garfield    
+### Real life Garfield    
 <img src="http://i.giphy.com/Luqzmlpp3UI12.gif" width=400 alt="Real life Garfield, who sits like he just doesn't care">
 
-## Arthur    
+### Arthur    
 <img src="http://www.menageriepetshop.com/wp-content/uploads/2014/04/slider-main-05-bird1-850x425.jpg" width=400 alt="Arthur, a bright red-orange bird">
 
 ### Jake
