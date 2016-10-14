@@ -60,3 +60,6 @@
 
 ### Rajah
 <img src="http://66.media.tumblr.com/8bcdac5574eb612f784a412e5db8f4b6/tumblr_mpgdchbOwo1s2589qo1_500.gif" width=400>
+
+### This cute kitty
+<img src="http://images.hellogiggles.com/uploads/2014/02/17/kitten-cute-fluffyfunny-cat-kitten-fluffy-cute-animal-joke-silly-pet-scary-comedy-tshirt-pkgbbppi.jpg" width=400>
