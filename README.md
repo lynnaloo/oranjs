@@ -71,4 +71,7 @@
 <img src="http://www.mat.net.ua/yuliya-article/tiger_2016/1/2012_Tiger.jpg" width=400>
 
 ### Veralda
-<img src="http://www.inandaroundtheadirondackpark.com/Fox_By_John_Haywood.jpg" width=400>
+
+
+### Foxwing
+<img src="https://lh3.googleusercontent.com/-axbBQOtbHME/VujNrlhA-6I/AAAAAAAABH0/NjnuW3LJLa4/w400-h267-p/IMG_0060.JPG" width=400>
