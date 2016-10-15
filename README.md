@@ -63,3 +63,12 @@
 
 ### Jay Hu
 <img src="http://2.bp.blogspot.com/-A3-WaKvYZu4/UF51PoVbVOI/AAAAAAAAJKM/EBoM47XWopI/s1600/giraffe_orange_red_1_background_wall_paper_wallpaper.png" width=400>
+
+### Romeo
+<img src="https://s.yimg.com/ny/api/res/1.2/JjTupwVkt.nB8nHy74zJTA--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en-US/homerun/travel.travelleisure.com/3d7a1f694400a1fbf8a042c461e2a6a4" width=400>
+
+### Kahn
+<img src="http://www.mat.net.ua/yuliya-article/tiger_2016/1/2012_Tiger.jpg" width=400>
+
+### Veralda
+<img src="http://www.inandaroundtheadirondackpark.com/Fox_By_John_Haywood.jpg" width=400>
