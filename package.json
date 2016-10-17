@@ -4,8 +4,7 @@
   "description": "Oran.js JavaScript by Orange Cats",
   "main": "index.js",
   "scripts": {
-    "pretest": "npm run lint",
-    "test": "mocha",
+    "test": "eslint . && mocha",
     "start": "node app/index.js",
     "build": "gulp build",
     "lint": "eslint . --ext .js"
