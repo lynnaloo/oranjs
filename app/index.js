@@ -12,6 +12,23 @@ function checkWater() {
       orange(Reminder.CheckWater));
 }
 
+const catAscii = `  	
+
+            |\\___/|
+           =) ^Y^ (=
+            \\  ^  /
+             )=*=(
+            /     \\
+            |     |          Happy Hacktoberfest!
+           /| | | |\\
+           \\| | |_|/\\
+           //_// ___/
+               \\_)
+`;
+
+//hacktoberfest special
+console.log(orange(catAscii));
+
 // the cat says
 console.log(orange('Feed the kitties at ' + now));
 
