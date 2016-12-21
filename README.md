@@ -52,6 +52,9 @@
 ### Charlie
 <img src="http://i.imgur.com/z3Ifbev.jpg" width=400>
 
+### Millie
+<img src="http://i.imgur.com/mnu0rrd.jpg" width=400>
+
 #### Arthur
 <img src="http://www.menageriepetshop.com/wp-content/uploads/2014/04/slider-main-05-bird1-850x425.jpg" width=400>
 
@@ -84,4 +87,3 @@
 
 #### Ginger Lou
 <img src="http://imgur.com/a/4mB0A" width=400>
-
