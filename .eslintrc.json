@@ -1,0 +1,7 @@
+{
+  "extends": "eta/es6",
+
+  "rules": {
+    "strict": [2, "global"]
+  }
+}
