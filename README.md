@@ -5,7 +5,7 @@
 
 - We all :heart: pets
 - We all :heart: orange
-- Hence we all :heart: Orange Pets
+- Hence we all :heart: Orange Pets!
 
 ## Running Locally
 1. Clone the git repository
