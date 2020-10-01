@@ -95,5 +95,5 @@
 <img src="http://res.cloudinary.com/dxebdllso/image/upload/v1477895556/goldfish_ihqyk1.jpg" width=400>
 
 #### Adam
-<img src ="https://s1.1zoom.me/prev/592/Cats_British_Shorthair_Grey_Glance_591881_600x400.jpg" 
+<img src ="https://s1.1zoom.me/prev/592/Cats_British_Shorthair_Grey_Glance_591881_600x400.jpg" width=400> 
 
