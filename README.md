@@ -40,9 +40,6 @@
 #### Fluffy
 <img src="https://s-media-cache-ak0.pinimg.com/564x/16/9a/af/169aaf2b42c4aa7c7944561269f67a89.jpg" width=400>
 
-#### Pip
-<img src="http://m.ocdn.eu/_m/b69c388566301adfc7e9e03f20c97b1f,62,37.jpg" width=400>
-
 #### Smole
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Common_goldfish.JPG" width=400>
 
@@ -84,12 +81,6 @@
 
 #### Veralda
 <img src="http://www.inandaroundtheadirondackpark.com/Fox_By_John_Haywood.jpg" width=400>
-
-#### Foxwing
-<img src="https://lh3.googleusercontent.com/-axbBQOtbHME/VujNrlhA-6I/AAAAAAAABH0/NjnuW3LJLa4/w400-h267-p/IMG_0060.JPG" width=400>
-
-#### Ginger Lou
-<img src="http://imgur.com/a/4mB0A" width=400>
 
 #### Lily
 <img src="http://res.cloudinary.com/dxebdllso/image/upload/v1477895556/goldfish_ihqyk1.jpg" width=400>
