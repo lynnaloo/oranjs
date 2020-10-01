@@ -97,3 +97,23 @@
 #### Adam
 <img src ="https://s1.1zoom.me/prev/592/Cats_British_Shorthair_Grey_Glance_591881_600x400.jpg" width=400> 
 
+#### Henry
+<img src = "https://s1.1zoom.me/prev/591/Cats_Kittens_Glance_White_background_590733_600x337.jpg" width=400>
+
+#### Jackson
+<img src = "https://s1.1zoom.me/prev/591/Cats_Kittens_Glance_White_590277_600x427.jpg" width=400>
+
+#### Stacy
+<img src ="https://s1.1zoom.me/big0/472/Cats_Grass_Bokeh_Glance_Kittens_590215_1280x854.jpg" width=400>
+
+#### Clara
+<img src ="https://s1.1zoom.me/big0/275/Cats_Bokeh_Head_Glance_Paws_587377_1280x851.jpg" width=400>
+
+#### Bailey
+<img src="https://s1.1zoom.me/big0/811/Closeup_Cats_Head_Glance_Whiskers_Ginger_color_586263_1280x853.jpg" width=400>
+
+#### Amara
+<img src="https://s1.1zoom.me/big0/612/Cats_Glance_586120_1280x853.jpg" width=400>
+
+#### Ava
+<img src="https://s1.1zoom.me/big0/613/Cats_Rabbits_Glance_585335_1280x853.jpg" width=400>
