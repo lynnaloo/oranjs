@@ -85,12 +85,6 @@
 #### Veralda
 <img src="http://www.inandaroundtheadirondackpark.com/Fox_By_John_Haywood.jpg" width=400>
 
-#### Foxwing
-<img src="https://lh3.googleusercontent.com/-axbBQOtbHME/VujNrlhA-6I/AAAAAAAABH0/NjnuW3LJLa4/w400-h267-p/IMG_0060.JPG" width=400>
-
-#### Ginger Lou
-<img src="http://imgur.com/a/4mB0A" width=400>
-
 #### Lily
 <img src="http://res.cloudinary.com/dxebdllso/image/upload/v1477895556/goldfish_ihqyk1.jpg" width=400>
 
